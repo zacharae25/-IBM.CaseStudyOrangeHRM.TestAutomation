@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="20.417">
+    <testcase classname="Validate ORangeHRM application for its functonality" name="Validate username and password in ORangeHRM application" time="20.259">
+        <system-out>
+            <![CDATA[Given the browser is invoked................................................passed
+And the url the launched....................................................passed
+When The user types username................................................passed
+When The user types password................................................passed
+When The login button is clicked............................................passed
+When The admin tab is clicked...............................................passed
+When The PIM tab is clicked.................................................passed
+When The user types Linda Anderson on employee name.........................passed
+Then close the browser......................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
